@@ -1,4 +1,6 @@
 # livedata_vs_rx_navigation
+Sample repository for:
+https://kotlinlang.slack.com/archives/C0B8M7BUY/p1566637535250500
 
 This app tries to represent a case when 
 a) business state is changed on a separate view
